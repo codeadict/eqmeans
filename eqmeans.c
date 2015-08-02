@@ -1,3 +1,20 @@
+/** =========================================================================
+    EQMeans - PostgreSQL Kmeans Algorithm with same size clusters.
+    -------------------------------------------------------------------------
+    @author Dairon Medina <dairon.medina@gmail.com>
+    @copyright Copyright (c) 2015, Dairon Medina
+    This program is free software; you can redistribute it and/or modify
+    it under the terms of the GNU Lesser General Public License as published
+    by the Free Software Foundation; either version 3 of the License, or
+    (at your option) any later version.
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+    For Support, please visit http://codeadict.github.com/
+    -------------------------------------------------------------------------
+*/
+
 #include "postgres.h"
 
 #include <float.h>

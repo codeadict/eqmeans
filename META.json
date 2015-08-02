@@ -1,0 +1,31 @@
+{
+    "name": "eqmeans",
+    "abstract": "K-means algorithm implementation with same size clusters",
+    "description": "This module provides k-means calculation over row set, each cluster will have the same number of rows.",
+    "version": "0.0.1",
+    "maintainer": "Dairon Medina <dairon.medina@gmail.com>",
+    "license": "gpl3",
+    "provides": {
+            "eqmeans": {
+                        "abstract": "k-means clustering",
+                        "version": "1.0.0",
+                        "file": "eqmeans.sql",
+                        "docfile": "docs/index.md"
+                    }
+        },
+    "resources": {
+            "bugtracker": {
+                    "web": "http://github.com/codeadict/eqmeans/issues/"
+            },
+            "repository": {
+                        "url": "git://github.com/codeadict/eqmeans.git",
+                        "web": "http://github.com/codedict/eqmeans",
+                        "type": "git"
+                    }
+        },
+    "meta-spec": {
+        "version": "1.0.0",
+        "url": "http://pgxn.org/meta/spec.txt"
+    },
+    "tags": ["clustering", "k-means", "gis", "statistics", "analysis"]
+}
