@@ -13,6 +13,8 @@ Author
 
 [Dairon Medina (dairon.medina@gmail.com)](mailto:dairon.medina@gmail.com)
 
+![Mucho Mejor si es hecho en Ecuador](https://bbconsultores.ec/hecho_ecuador.gif)
+
 Installation
 ------------
 
